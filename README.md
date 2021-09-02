@@ -32,11 +32,11 @@
   https://cacoo.com/diagrams/ucI8GbCsVe9jXNft/9C956
 ## Transition Screen
     https://app.diagrams.net/?libs=general;uml#
+    
+    ![image](https://user-images.githubusercontent.com/81798427/131838720-4ad65055-ed59-4e0c-9b76-86a51b297669.png)
+
 ## Wireframe
-[Wireframe Link](https://cacoo.com/diagrams/IIxVvGeYUmZUIZx7/91094)
-
-![image](https://user-images.githubusercontent.com/81798427/131838572-912931b6-a22e-4893-830d-038d32cdbd3a.png)
-
+[Wireframe Link]https://cacoo.com/diagrams/IIxVvGeYUmZUIZx7/7233C)
 
 ## Advanced Functions
    * devise
