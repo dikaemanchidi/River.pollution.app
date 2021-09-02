@@ -14,7 +14,11 @@
   - [ ]User can enter pH value, Clarity Value, Temperature value
   - [ ]User can enter description
   - [ ] Post edit function
-  - [ ] Post deletion function
+  -  [ ] User can edit thier own post
+  - [ ] Post deletion fuction
+  - [ ]   User can delete thier own post
+  - [ ]   User can view saved posts
+  - [ ]   User can see comment made on posts
 - [ ] Comment Post function
   - [ ]Only Admin Can comment on Post
   - [ ] Admin functions
@@ -33,8 +37,10 @@
 
 ## Advanced Functions
    * devise
+   * comment fuction
 
 ## To be used Gem
-   * mini_magick
+   * live chat
    * devise
+   * carrierwave
    * gem rails_admin
