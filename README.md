@@ -7,8 +7,8 @@
    devise
    AWS
 ## Techonology outside the curriculum
-   live chat
-   carrierwave
+  * live chat
+   * carrierwave
 ## Excursion Procedure
 $ git clone https://github.com/dikaemanchidi/River.pollution.app/blob/main/README.md 
 $cd river.detector.app
