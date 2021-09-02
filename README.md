@@ -35,6 +35,9 @@
 ## Wireframe
 [Wireframe Link](https://cacoo.com/diagrams/IIxVvGeYUmZUIZx7/91094)
 
+![image](https://user-images.githubusercontent.com/81798427/131838572-912931b6-a22e-4893-830d-038d32cdbd3a.png)
+
+
 ## Advanced Functions
    * devise
    * comment fuction
