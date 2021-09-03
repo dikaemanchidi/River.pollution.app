@@ -4,8 +4,8 @@
    * ruby 2.6.5
    *rails 5.2.5
 ## Employment term technology
-   devise
-   AWS
+   * devise
+  *  Comment function using Ajax
 ## Techonology outside the curriculum
   * live chat
    * carrierwave
