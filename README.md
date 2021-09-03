@@ -8,8 +8,9 @@
   *  Comment function using Ajax
 ## Techonology outside the curriculum
   * live chat
+  * ransack
 ## Excursion Procedure
-  * git clone https://github.com/dikaemanchidi/River.pollution.app/blob/main/README.md 
+  * git clone  
   * cd river.detector.app
   * bundle install
   * rails db:create and rails db:migrate
