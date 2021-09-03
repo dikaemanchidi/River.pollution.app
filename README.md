@@ -26,7 +26,8 @@
 ## Transition Screen
     https://app.diagrams.net/?libs=general;uml#
     
-    ![image](https://user-images.githubusercontent.com/81798427/131838720-4ad65055-ed59-4e0c-9b76-86a51b297669.png)
+   ![image](https://user-images.githubusercontent.com/81798427/132020151-97e26192-481d-40c5-9ba4-22def1766b4a.png)
+
 
 
 ## To be used Gem
