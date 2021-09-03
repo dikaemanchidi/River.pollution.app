@@ -2,7 +2,7 @@
 
 ## Development Language
    * ruby 2.6.5
-   *rails 5.2.5
+   * rails 5.2.5
 ## Employment term technology
    * devise
   *  Comment function using Ajax
