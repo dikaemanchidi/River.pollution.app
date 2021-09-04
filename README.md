@@ -10,7 +10,7 @@
   * live chat
   * ransack
 ## Excursion Procedure
-  * git clone  
+  * git clone https://github.com/dikaemanchidi/river.app
   * cd river.detector.app
   * bundle install
   * rails db:create and rails db:migrate
