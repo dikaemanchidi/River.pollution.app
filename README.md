@@ -16,7 +16,7 @@
   * rails db:create and rails db:migrate
   * rails s
 ## Catalog design
-    [Catalog Design Link](https://docs.google.com/spreadsheets/d/1PIuGsCdJ62aMC8FgiaR-E4DYxzrrzDc_vwoBaUzGjF4/edit?usp=sharing)
+   https://docs.google.com/spreadsheets/d/1PIuGsCdJ62aMC8FgiaR-E4DYxzrrzDc_vwoBaUzGjF4/edit?usp=sharing
 ## Table definition document
   [Table Definition Link](https://docs.google.com/spreadsheets/d/1PIuGsCdJ62aMC8FgiaR-E4DYxzrrzDc_vwoBaUzGjF4/edit?usp=sharing)
   ## Wireframe
