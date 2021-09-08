@@ -24,9 +24,8 @@ https://cacoo.com/diagrams/IIxVvGeYUmZUIZx7/270EA
 ## ER Daigram
   https://cacoo.com/diagrams/ucI8GbCsVe9jXNft/9C956
 ## Transition Screen
-    https://app.diagrams.net/?libs=general;uml#
     
-<img width="926" alt="diagram" src="https://user-images.githubusercontent.com/81798427/132349146-532a8691-1468-4fb2-b2f5-4513aaa1ccc1.png">
+![image](https://user-images.githubusercontent.com/81798427/132526977-9bbd8d6b-068d-4a13-8d65-904f77b6532a.png)
 
 
 
